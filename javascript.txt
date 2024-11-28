@@ -1,3 +1,5 @@
 A Turma JavaScript 06 é TOP!
 
 A Turma JavaScript 06 é MARA!
+
+Hello World! Estou livre da maldição!
